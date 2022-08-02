@@ -1,0 +1,16 @@
+ul{
+    list-style-type:none; 
+    float: right;
+    background-color: rgb(160, 139, 209);
+ }
+ img{
+ height: 60px;
+ }
+ a{
+     display: inline-block;
+     margin: 10px;
+     color: black;
+ }
+ body{
+     background-color: rgb(74, 37, 122);
+ }
